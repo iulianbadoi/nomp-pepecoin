@@ -1,4 +1,5 @@
-!!!!
+# PepeCoin / Memetic NOMP Fork
+
 Requires node 0.10.25 - use NVM to install.
 
 https://gist.github.com/d2s/372b5943bce17b964a79
