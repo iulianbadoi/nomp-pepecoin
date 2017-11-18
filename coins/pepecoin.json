@@ -1,0 +1,9 @@
+{
+    "name": "PepeCoin",
+    "symbol": "PEPE",
+    "algorithm": "x11",
+    "reward": "POS",
+    "peerMagic": "3ac42c2f",
+    "mposDiffMultiplier": 256
+}
+
