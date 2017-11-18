@@ -3,7 +3,7 @@ Requires node 0.10.25 - use NVM to install.
 
 https://gist.github.com/d2s/372b5943bce17b964a79
 
-This version of NOMP is modified to pay the required 37.5% to Mastertoads and 4% dev fee addresses to mine valid blocks. See commits for changes.
+This version of NOMP is modified for PepeCoin / Memetic to pay the required 37.5% to Mastertoads and 4% dev fee addresses to mine valid blocks. See commits for changes.
 
 !!!!
 
